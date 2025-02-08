@@ -35,12 +35,12 @@ letter.addEventListener('mouseenter', () => {
 
 letter.addEventListener('mouseleave', () => {
     letter.innerHTML = `
-        <p>Querida Normis,</p>
+        <p>Querida ,</p>
     <p>Desde el momento en que nuestras miradas se cruzaron, supe que mi corazón encontró su hogar en ti.</p>
     <p>Cada día a tu lado es un poema sin final, una melodía dulce que llena mi alma de felicidad.</p>
     <p>Eres mi refugio en la tormenta, mi luz en los días grises, el suspiro que da sentido a mis latidos.</p>
     <p>Te amo con cada parte de mí, con cada pensamiento y cada suspiro.</p>
-    <p>❤️ Diego ❤️</p>
+    <p>❤️ ❤️</p>
     `;
 });
 
